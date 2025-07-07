@@ -41,3 +41,6 @@ pip install -r requirements.txt
 ```
 jupyter notebook EDA_Financiero.ipynb
 ```
+
+ 💡 Nota: Los datos se descargan en tiempo real usando yFinance, 
+     por lo que no se incluyen datasets en este repositorio.
